@@ -1,0 +1,88 @@
+n = 1000000000
+Segmented sieve:  50847534 (in 1.13506 seconds)
+Parallel segmented sieve (all physical cores):  50847534 (in 0.118113 seconds)
+Parallel segmented sieve (hyperthreading):  50847534 (in 0.0785833 seconds)
+Odd segmented sieve:  616819316 (in 0.743337 seconds)
+Parallel odd segmented sieve (all physical cores):  105507102 (in 0.101744 seconds)
+Parallel odd segmented sieve (hyperthreading):  105507102 (in 0.0691454 seconds)
+
+n = 2000000000
+Segmented sieve:  98222287 (in 2.27098 seconds)
+Parallel segmented sieve (all physical cores):  98222287 (in 0.222126 seconds)
+Parallel segmented sieve (hyperthreading):  98222287 (in 0.149577 seconds)
+Odd segmented sieve:  1230279069 (in 1.50723 seconds)
+Parallel odd segmented sieve (all physical cores):  203711406 (in 0.211908 seconds)
+Parallel odd segmented sieve (hyperthreading):  203711406 (in 0.143574 seconds)
+
+n = 3000000000
+Segmented sieve:  144449537 (in 3.41505 seconds)
+Parallel segmented sieve (all physical cores):  144449537 (in 0.333097 seconds)
+Parallel segmented sieve (hyperthreading):  144449537 (in 0.242321 seconds)
+Odd segmented sieve:  2564463191 (in 2.28431 seconds)
+Parallel odd segmented sieve (all physical cores):  299450280 (in 0.30766 seconds)
+Parallel odd segmented sieve (hyperthreading):  299450280 (in 0.221114 seconds)
+
+n = 4000000000
+Segmented sieve:  189961812 (in 4.55179 seconds)
+Parallel segmented sieve (all physical cores):  189961812 (in 0.444586 seconds)
+Parallel segmented sieve (hyperthreading):  189961812 (in 0.303121 seconds)
+Odd segmented sieve:  4371432727 (in 3.06072 seconds)
+Parallel odd segmented sieve (all physical cores):  393655235 (in 0.406631 seconds)
+Parallel odd segmented sieve (hyperthreading):  393655235 (in 0.297099 seconds)
+
+n = 6000000000
+Segmented sieve:  279545368 (in 6.83939 seconds)
+Parallel segmented sieve (all physical cores):  279545368 (in 0.670356 seconds)
+Parallel segmented sieve (hyperthreading):  279545368 (in 0.465636 seconds)
+Odd segmented sieve:  6551856283 (in 4.62228 seconds)
+Parallel odd segmented sieve (all physical cores):  578977665 (in 0.610545 seconds)
+Parallel odd segmented sieve (hyperthreading):  578977665 (in 0.427146 seconds)
+
+n = 8000000000
+Segmented sieve:  367783654 (in 9.20306 seconds)
+Parallel segmented sieve (all physical cores):  367783654 (in 0.918047 seconds)
+Parallel segmented sieve (hyperthreading):  367783654 (in 0.688548 seconds)
+Odd segmented sieve:  8730934569 (in 6.18085 seconds)
+Parallel odd segmented sieve (all physical cores):  761420906 (in 0.826537 seconds)
+Parallel odd segmented sieve (hyperthreading):  761420906 (in 0.586607 seconds)
+
+n = 10000000000
+Segmented sieve:  455052511 (in 11.4228 seconds)
+Parallel segmented sieve (all physical cores):  455052511 (in 1.12708 seconds)
+Parallel segmented sieve (hyperthreading):  455052511 (in 0.841993 seconds)
+Odd segmented sieve:  7390563797 (in 7.70549 seconds)
+Parallel odd segmented sieve (all physical cores):  941782405 (in 1.04621 seconds)
+Parallel odd segmented sieve (hyperthreading):  941782405 (in 0.731968 seconds)
+
+n = 12000000000
+Segmented sieve:  541555851 (in 13.6827 seconds)
+Parallel segmented sieve (all physical cores):  541555851 (in 1.34189 seconds)
+Parallel segmented sieve (hyperthreading):  541555851 (in 0.904171 seconds)
+Odd segmented sieve:  8864197137 (in 9.29332 seconds)
+Parallel odd segmented sieve (all physical cores):  1120515533 (in 1.2693 seconds)
+Parallel odd segmented sieve (hyperthreading):  1120515533 (in 0.818444 seconds)
+
+n = 16000000000
+Segmented sieve:  712799821 (in 18.2969 seconds)
+Parallel segmented sieve (all physical cores):  712799821 (in 1.78781 seconds)
+Parallel segmented sieve (hyperthreading):  712799821 (in 1.26776 seconds)
+Odd segmented sieve:  11809701107 (in 12.3797 seconds)
+Parallel odd segmented sieve (all physical cores):  1474202744 (in 1.63673 seconds)
+Parallel odd segmented sieve (hyperthreading):  1474202744 (in 1.09909 seconds)
+
+n = 20000000000
+Segmented sieve:  882206716 (in 22.8354 seconds)
+Parallel segmented sieve (all physical cores):  882206716 (in 2.23808 seconds)
+Parallel segmented sieve (hyperthreading):  882206716 (in 1.56389 seconds)
+Odd segmented sieve:  14753368002 (in 15.481 seconds)
+Parallel odd segmented sieve (all physical cores):  1823971138 (in 2.04416 seconds)
+Parallel odd segmented sieve (hyperthreading):  1823971138 (in 1.46072 seconds)
+
+n = 24000000000
+Segmented sieve:  1050186367 (in 27.4032 seconds)
+Parallel segmented sieve (all physical cores):  1050186367 (in 2.6896 seconds)
+Parallel segmented sieve (hyperthreading):  1050186367 (in 1.83671 seconds)
+Odd segmented sieve:  17695607653 (in 18.5606 seconds)
+Parallel odd segmented sieve (all physical cores):  2170683917 (in 2.47012 seconds)
+Parallel odd segmented sieve (hyperthreading):  2170683917 (in 1.68427 seconds)
+
