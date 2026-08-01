@@ -3,7 +3,7 @@
 An essential class of algorithms in computer science is sorting algorithms. They are used
 to put (*sort*) elements from a list in a certain order (increasing, decreasing, by string
 length or any other criteria that can be ordered like numbers or words in a dictionary, for
-more details, see ![https://en.wikipedia.org/wiki/Partially_ordered_set](Partially ordered set)).
+more details, see [Partially ordered set](https://en.wikipedia.org/wiki/Partially_ordered_set)).
 
 Sorting algorithms on short and long contiguous lists (vectors) are analysed. The criteria for a
 sorting algorithm include:
