@@ -6,6 +6,9 @@ benchmarks each algorithm from a category, writes the results in a text file and
 the executables are removed. It's a small educational tool which also serves as a draft 
 for my future mini-projects and projects.
 
+Everything is compiled using the GCC (g++ since it's C++) and the `-O3` optimization flag
+(the strongest optimization currently available, for maximum performance gains). 
+
 ---
 
 ### Categories:
