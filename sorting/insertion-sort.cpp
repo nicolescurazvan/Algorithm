@@ -35,7 +35,7 @@ std::vector<int> generate(size_t n)
 
 int main()
 {
-    size_t N[] = {100, 1000, 5000, 10000, 20000, 40000, 70000, 100000};
+    size_t N[] = {100, 1000, 5000, 10000, 20000, 40000, 60000, 80000};
     printf("Insertion sort \n-------------------------------------\n");
     for (size_t n: N)
     {
@@ -43,5 +43,6 @@ int main()
         double t = measure(insertion_sort, v);
         printf("n = %zu: \t %lf ms\n", n, t * 1000);
     }
+    printf("\n\n");
     return 0;
 }

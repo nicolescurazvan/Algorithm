@@ -1,8 +1,13 @@
+CXX = g++
+CXXFLAGS = -O3 -Wall -Wextra
+
 build:
-	g++ -O3 insertion-sort.cpp -o insertion-sort
+	$(CXX) $(CXXFLAGS) insertion-sort.cpp -o insertion-sort
+	$(CXX) $(CXXFLAGS) mergesort.cpp -o mergesort
 
 run:
 	./insertion-sort
+	./mergesort
 
 clean:
-	rm insertion-sort
+	rm insertion-sort mergesort
